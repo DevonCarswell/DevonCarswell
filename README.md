@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ### :hammer_and_wrench: Languages and Tools :  
 
@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 
 </p> 
 
-
+-->
 ### Where to find me
 <a  href="mailto:kaszazsolt90@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
